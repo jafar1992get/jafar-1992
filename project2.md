@@ -1,8 +1,10 @@
 # project 2 :learning markdown 
-## my last pagr URl is:
 
-* [google](https://jafar1992get.github.io/jafar-1992/learning%20markup).
-** i talk about my self **
+## my last paer URl is:
+
+* (https://jafar1992get.github.io/jafar-1992/learning%20markup).
+
+** # i talk about my self **
 * persona information.
 * my education.
 * My experiance 
