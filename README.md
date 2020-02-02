@@ -20,6 +20,7 @@ if i have develop iv my skills :
 personal skills\*our-new skills\*to\*old our skills\*
 
 [google].(http://www.google.com/)
+# fix it
 
 
 
