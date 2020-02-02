@@ -4,7 +4,7 @@
 
 * (https://jafar1992get.github.io/jafar-1992/learning%20markup).
 
-** i talk about my self **
+** i talk about my self 
 
 * persona information.
 * my education.
