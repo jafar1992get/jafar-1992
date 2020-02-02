@@ -11,7 +11,7 @@
 * My experiance 
 
 # my personal information:
-*# name: jafar al akhras.
+* name: jafar al akhras.
 * date of birth:6/4/1992.
 * my old :29 year.
 
