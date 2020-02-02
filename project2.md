@@ -4,7 +4,7 @@
 
 * (https://jafar1992get.github.io/jafar-1992/learning%20markup).
 
-** i talk about my self 
+## i talk about my self 
 
 * persona information.
 * my education.
@@ -21,3 +21,8 @@
 # My experiance :
 - internal auditor in al-itihad schools.
 - HR in noman al junaidi for food indistury .
+
+# my goal 
+
+- being a quick learner, responsiple and profishional. My objective is to acquire a good ,
+Challingeng position were i can be given be opportunity to employee and atilize my knowledge and experiance.
