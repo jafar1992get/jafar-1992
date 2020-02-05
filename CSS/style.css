@@ -1,0 +1,18 @@
+h1 {text-align: center;
+}
+
+h2 {text-align: center;}
+
+
+p   { color: rgb(172, 16, 101);
+    text-transform: uppercase;}
+
+ ul li p {color: blue;
+    text-align: center;
+
+ }
+
+ footer   { text-align: center;
+border: black;}
+
+body {background-color: burlywood;}
