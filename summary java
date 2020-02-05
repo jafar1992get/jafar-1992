@@ -1,0 +1,8 @@
+JavaScript is used to access any content in HTML.:
+You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example: 
+* Add a paragraph of text after the first <hl> element • 
+* Change the value of c 1 ass attributes to trigger new CSS rules for those elements .
+* Change the size or position of an <i mg> element .
+
+# Before you can run code examples with JavaScript on your computer, you may need to change your browser’s security settings.
+# Spacing displayed by a browser in a web page is determined by the HTML5 elements used to format the page .
