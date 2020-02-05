@@ -26,6 +26,10 @@ document.write(name + " welcome javaScript programming!");
 
 var age = window.prompt("enter your age");
 var comment ;
+for (var currantAge=10; currantAge<=30; currantAge++){
+
+    Yage(currantAge);
+}
 
 function Yage(age){
     if(age < 15 ){
