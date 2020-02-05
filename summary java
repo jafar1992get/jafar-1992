@@ -1,8 +1,20 @@
-JavaScript is used to access any content in HTML.:
-You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example: 
+# JavaScript is used to access any content in HTML.:
+
+# You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example: 
 * Add a paragraph of text after the first <hl> element • 
 * Change the value of c 1 ass attributes to trigger new CSS rules for those elements .
 * Change the size or position of an <i mg> element .
 
 # Before you can run code examples with JavaScript on your computer, you may need to change your browser’s security settings.
 # Spacing displayed by a browser in a web page is determined by the HTML5 elements used to format the page .
+* Often, JavaScripts appear in the <head> section of the HTML5 document 
+* The browser interprets the contents of the <head> section first 
+* The <script> tag indicates to the browser that the text that follows is part of a script. Attribute type specifies the scripting language used in the script—such as text/javascript
+
+** The script Element and Commenting Your Scripts **
+
+# The type attribute specifies the MIME type of the script 
+as well as the scripting language used in the script—in this case,
+ a text file written in javascript .
+
+ 
