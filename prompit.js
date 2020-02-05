@@ -22,3 +22,24 @@ if (hour >= 12) { //covert to 12-hour clock
         document.write("<h1>good Evening");
 } //end if 
 document.write(name + " welcome javaScript programming!");
+
+
+var age = window.prompt("enter your age");
+var comment ;
+
+function Yage(age){
+    if(age < 15 ){
+        comment = "you are baby";
+    }
+
+    if(age => 15 || age < 25 ){
+        comment = "you are young";
+    }
+
+    if(age >25  ){
+        comment = "you are khtyaar";
+    }
+    return comment;
+
+    document.write(Yage(age,comment ));
+}
