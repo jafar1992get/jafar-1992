@@ -29,8 +29,8 @@ var comment ;
 
 
 for (var i=1; i< 15 ; i++) {
-    <img src=""  alt = "this image not exist"
-    
+    <img src=""  alt = "this image not exist"></img>
+
 }
 var w =  Yage(age);
 
