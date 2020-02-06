@@ -28,6 +28,10 @@ var age = window.prompt("enter your age");
 var comment ;
 
 
+for (var i=1; i< 15 ; i++) {
+    <img src=""  alt = "this image not exist"
+    
+}
 var w =  Yage(age);
 
 function Yage(age){
