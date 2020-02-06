@@ -6,7 +6,8 @@
 
 - In order to explain Git, we have to first explain various aspects of Version Control.
 
-** example cloud copputing **
+** example cloud copputing ***
+
 * github
 * get 
 
